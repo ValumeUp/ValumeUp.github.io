@@ -1,6 +1,6 @@
 {
-    "name":"dcode PWA example",
-    "short_name":"dcode PWA example",
+    "name":"Galery",
+    "short_name":"galery",
     "start_url":".",
     "background_color": "#6dcdb1",
     "theme_color":"#009578",
